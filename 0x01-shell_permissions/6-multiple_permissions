@@ -1,0 +1,5 @@
+chmod ug+x,0+r hello
+chmod ug+x,0+r hello
+chmod ug+x,0+r helloear
+#!/bin/bash
+chmod ug+x,o+r hello
